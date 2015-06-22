@@ -1,6 +1,6 @@
 {
   "name": "subscribers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minimal subscription/notification implementation. Think of it as a “single event”.",
   "main": "index.js",
   "scripts": {
