@@ -1,0 +1,33 @@
+{
+  "name": "subscribers",
+  "version": "1.0.1",
+  "description": "Minimal subscription/notification implementation. Think of it as a “single event”.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'test.js' --reporter dot --timeout 10"
+  },
+  "keywords": [
+    "subscribe",
+    "notify",
+    "event",
+    "single",
+    "event"
+  ],
+  "author": "David Aurelio <dev@david-aurelio.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.3"
+  },
+  "dependencies": {
+    "sinon": "^1.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidaurelio/subscribers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidaurelio/subscribers/issues"
+  },
+  "homepage": "https://github.com/davidaurelio/subscribers#readme"
+}
