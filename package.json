@@ -19,9 +19,6 @@
     "mocha": "^2.2.5",
     "sinon": "^1.15.3"
   },
-  "dependencies": {
-    "sinon": "^1.15.3"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/davidaurelio/subscribers.git"
