@@ -4,6 +4,8 @@ A tiny library to manage lists of subscribers. Think of it as a â€œsingle eventâ
 
 Focus has been minimal API surface and fast notification.
 
+[![Build Status](https://travis-ci.org/davidaurelio/subscribers.svg?branch=master)](https://travis-ci.org/davidaurelio/subscribers)
+
 ## Installation
 
     npm install subscribers
